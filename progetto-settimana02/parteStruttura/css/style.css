@@ -1,0 +1,119 @@
+/* Your styles here */
+body{
+    margin: 0;
+    background-color:#E9EDEE ;
+}
+
+nav{
+    background-color: #364757;
+    padding: 0.5%;
+    
+}
+
+nav ul{
+    margin: 0;
+    list-style-type: none;
+    padding-left: 0.4%;
+    
+}
+
+ul li{
+    display: inline;
+    padding: 1.1%;
+    
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+#logo-amazon-alto{
+    background-color: #222F3F;
+
+}
+#logo-amazon-alto img{
+    width: 14%;
+    margin-left: 2%;
+    padding: 0.2%;
+}
+
+.firstp{
+    background-color: #F66502;
+    text-align: center;
+    color: white;
+    padding: 0.4%;
+}
+
+main{
+    margin: 0 2%;
+   
+}
+
+.titleBox{
+    background-image: url(../assets/images/bg-image.png);
+    text-align: center;
+    color: white;
+    padding: 2.8%;
+}
+
+.boxSchede{
+    background-color: white;
+    margin-top: 1%;
+}
+
+.boxSchede p{
+display: inline;
+
+}
+
+
+
+.cards img{
+width: 10rem;
+height: 17rem;
+border-radius: 2rem;
+}
+
+.boxVisore{
+    text-align: center;
+}
+
+.immagineVisore img{
+    width: 100%;
+    height: 15rem;
+}
+
+.boxCassa{
+    text-align: center;
+}
+
+.immagineCassa img{
+    width: 100%;
+    height: 15rem;
+}
+
+footer{
+    background-color: #364757;
+    text-align: center;
+}
+
+
+
+footer a{
+    color: white;
+}
+
+#logo-amazon-basso{
+    background-color: #222F3F;
+}
+
+p, a{
+    text-decoration: none;
+    margin-left: 1%;
+   
+}
+
+
+
+
